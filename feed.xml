@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Erza Jumeidi</title>
+    <link href="https://erzajumeidi.github.io/feed.xml" rel="self" />
+    <link href="https://erzajumeidi.github.io" />
+    <updated>2024-04-24T12:22:48+07:00</updated>
+    <author>
+        <name>Erza Jumeidi</name>
+    </author>
+    <id>https://erzajumeidi.github.io</id>
+
+    <entry>
+        <title>Work In Progress</title>
+        <author>
+            <name>Erza Jumeidi</name>
+        </author>
+        <link href="https://erzajumeidi.github.io/this-is-a-test-post/"/>
+        <id>https://erzajumeidi.github.io/this-is-a-test-post/</id>
+        <media:content url="https://erzajumeidi.github.io/media/posts/1/geo4.png" medium="image" />
+            <category term="Blog Update"/>
+
+        <updated>2023-09-04T11:15:00+07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://erzajumeidi.github.io/media/posts/1/geo4.png" alt="Image" />
+                    Hello, I'm deumiij. Welcome to my site 😄 This site has been my project all this year. And i'm glad&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://erzajumeidi.github.io/media/posts/1/geo4.png" class="type:primaryImage" alt="Image" /></p>
+                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="1">
+<figure class="gallery__item"><a href="https://lh3.googleusercontent.com/pw/AIL4fc-47L80IiHBCsto0f7rq-uKnXPVPIN4sdcsCxGMdqaNiK3V0B7EvfUAqdxeHpVFwxSd-AmjzKlSP8YUybOjUiDxAn0-V3YF9aEBtRySiNyusC1Ayw=w2400" data-size="2560x1440"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/AIL4fc-47L80IiHBCsto0f7rq-uKnXPVPIN4sdcsCxGMdqaNiK3V0B7EvfUAqdxeHpVFwxSd-AmjzKlSP8YUybOjUiDxAn0-V3YF9aEBtRySiNyusC1Ayw=w2400" alt="" width="768" height="432" data-is-external-image="true"></a></figure>
+</div></div>
+<p>Hello, I'm deumiij. Welcome to my site 😄</p>
+<p>This site has been my project all this year. And i'm glad to announce that it's working as intended. There's still lots of things needed to be managed and (obviously) things to be added. Still can't decided what I'm gonna post or anything else, but the thing is it's coming soon. Real soon this time.</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+</feed>

@@ -1,1 +1,0 @@
-# erzajumeidi.github.io
