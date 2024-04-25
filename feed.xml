@@ -3,38 +3,27 @@
     <title>Erza Jumeidi</title>
     <link href="https://erzajumeidi.github.io/feed.xml" rel="self" />
     <link href="https://erzajumeidi.github.io" />
-    <updated>2024-04-24T16:41:49+07:00</updated>
+    <updated>2024-04-25T12:59:02+07:00</updated>
     <author>
         <name>Erza Jumeidi</name>
     </author>
     <id>https://erzajumeidi.github.io</id>
 
     <entry>
-        <title>Work In Progress</title>
+        <title>Bloody Luck</title>
         <author>
             <name>Erza Jumeidi</name>
         </author>
-        <link href="https://erzajumeidi.github.io/this-is-a-test-post/"/>
-        <id>https://erzajumeidi.github.io/this-is-a-test-post/</id>
-        <media:content url="https://erzajumeidi.github.io/media/posts/1/geo4.png" medium="image" />
-            <category term="Blog Update"/>
+        <link href="https://erzajumeidi.github.io/bloody-luck/"/>
+        <id>https://erzajumeidi.github.io/bloody-luck/</id>
 
-        <updated>2023-09-04T11:15:00+07:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://erzajumeidi.github.io/media/posts/1/geo4.png" alt="Image" />
-                    Hello, I'm deumiij. Welcome to my site 😄 This site has been my project all this year. And i'm glad&hellip;
-                ]]>
-            </summary>
+        <updated>2024-04-25T12:45:28+07:00</updated>
+            <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://erzajumeidi.github.io/media/posts/1/geo4.png" class="type:primaryImage" alt="Image" /></p>
-                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="1">
-<figure class="gallery__item"><a href="https://lh3.googleusercontent.com/pw/AIL4fc-47L80IiHBCsto0f7rq-uKnXPVPIN4sdcsCxGMdqaNiK3V0B7EvfUAqdxeHpVFwxSd-AmjzKlSP8YUybOjUiDxAn0-V3YF9aEBtRySiNyusC1Ayw=w2400" data-size="2560x1440"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/AIL4fc-47L80IiHBCsto0f7rq-uKnXPVPIN4sdcsCxGMdqaNiK3V0B7EvfUAqdxeHpVFwxSd-AmjzKlSP8YUybOjUiDxAn0-V3YF9aEBtRySiNyusC1Ayw=w2400" alt="" width="768" height="432" data-is-external-image="true"></a></figure>
-</div></div>
-<p>Hello, I'm deumiij. Welcome to my site 😄</p>
-<p>This site has been my project all this year. And i'm glad to announce that it's working as intended. There's still lots of things needed to be managed and (obviously) things to be added. Still can't decided what I'm gonna post or anything else, but the thing is it's coming soon. Real soon this time.</p>
-<p> </p>
+                <div style="width: 600px; max-width: 100%; height: auto; margin: 20px auto 20px auto;"><video loading="lazy" width="100%" height="auto" autoplay="autoplay" loop="loop" muted="" controls="controls">
+		<source src="https://www.dropbox.com/scl/fi/0sxqbq4c7s4e1tvlfoith/BloodyLuck_Comic_.mp4?rlkey=uv0tumd0zxqkpaohexnf07fcq&amp;st=6loazved&amp;raw=1" type="video/mp4" />
+	</video></div>
             ]]>
         </content>
     </entry>
