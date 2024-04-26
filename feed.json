@@ -13,15 +13,93 @@
         {
             "id": "https://erzajumeidi.github.io/bloody-luck/",
             "url": "https://erzajumeidi.github.io/bloody-luck/",
-            "title": "Bloody Luck",
-            "content_html": "<div style=\"width: 600px; max-width: 100%; height: auto; margin: 20px auto 20px auto;\"><video loading=\"lazy\" width=\"100%\" height=\"auto\" autoplay=\"autoplay\" loop=\"loop\" muted=\"\" controls=\"controls\">\n\t\t<source src=\"https://www.dropbox.com/scl/fi/0sxqbq4c7s4e1tvlfoith/BloodyLuck_Comic_.mp4?rlkey=uv0tumd0zxqkpaohexnf07fcq&amp;st=6loazved&amp;raw=1\" type=\"video/mp4\" />\n\t</video></div>",
+            "title": "Bloody Luck - Promo",
+            "summary": "Client : Suteja.art A promo video made for the release of Bloody Luck comic. Illustration and direction directly from suteja.art/client.",
+            "content_html": "<div class=\"align-left\"><span style=\"color: #3598db;\">Client  </span> : Suteja.art</div>\n<div> </div>\n<div>A promo video made for the release of Bloody Luck comic. Illustration and direction directly from suteja.art/client.</div>\n<div style=\"width: 500px; max-width: 100%; height: auto; margin: 20px auto 20px auto;\"><video loading=\"lazy\" width=\"100%\" height=\"auto\" loop=\"loop\" controls=\"controls\">\n\t\t<source src=\"https://www.dropbox.com/scl/fi/0sxqbq4c7s4e1tvlfoith/BloodyLuck_Comic_.mp4?rlkey=uv0tumd0zxqkpaohexnf07fcq&amp;st=6loazved&amp;raw=1\" type=\"video/mp4\" />\n\t</video></div>\n<div style=\"width: 500px; max-width: 100%; height: auto; margin: 20px auto 20px auto;\"> </div>",
+            "image": "https://erzajumeidi.github.io/media/posts/10/BloodyLuck_Comic_.png",
+            "author": {
+                "name": "Erza Jumeidi"
+            },
+            "tags": [
+                   "Client Works"
+            ],
+            "date_published": "2024-04-26T15:20:00+07:00",
+            "date_modified": "2024-04-26T15:28:09+07:00"
+        },
+        {
+            "id": "https://erzajumeidi.github.io/kin-dairy-promo-5/",
+            "url": "https://erzajumeidi.github.io/kin-dairy-promo-5/",
+            "title": "Thrash - Promo",
+            "summary": "Client : Myndfury Promo videos made for thrash comic. Illustration and direction directly from myndfury.",
+            "content_html": "<p><span style=\"color: #3598db;\">Client  </span> : Myndfury</p>\n<p>Promo videos made for thrash comic. Illustration and direction directly from myndfury.</p>\n<div style=\"width: 600px; max-width: 100%; height: auto; margin: 20px auto 20px auto;\"><video loading=\"lazy\" width=\"100%\" height=\"auto\" autoplay=\"autoplay\" loop=\"loop\" muted=\"muted\" controls=\"controls\" source=\"\" src=\"https://www.dropbox.com/scl/fi/80xei2adtuwjywpv58d3e/Thrash_AnimatedCover.mp4?rlkey=zxnsxdxfdtq2js74bf4e45ufn&amp;st=a7e0w1n0&amp;raw=1\">\n\t</video>\n<div style=\"width: 600px; max-width: 100%; height: auto; margin: 20px auto 20px auto;\"><video loading=\"lazy\" width=\"100%\" height=\"auto\" controls=\"controls\" loop=\"loop\" source=\"\" src=\"https://www.dropbox.com/scl/fi/je17pb0lwr3l38tsbtkeu/Thrash_Animated.mp4?rlkey=451p2dygix9847fwzcsv3zi2z&amp;st=h3a3bqt2&amp;raw=1\">\n\t\t</video></div>\n</div>",
+            "image": "https://erzajumeidi.github.io/media/posts/17/Copy-2-of-Cover_Edit.png",
             "author": {
                 "name": "Erza Jumeidi"
             },
             "tags": [
             ],
-            "date_published": "2024-04-25T12:45:28+07:00",
-            "date_modified": "2024-04-25T12:59:02+07:00"
+            "date_published": "2024-04-26T14:03:46+07:00",
+            "date_modified": "2024-04-26T15:47:26+07:00"
+        },
+        {
+            "id": "https://erzajumeidi.github.io/kin-dairy-promo-4/",
+            "url": "https://erzajumeidi.github.io/kin-dairy-promo-4/",
+            "title": "Ninja Express",
+            "summary": "Client : Ninja Express Role : Motion Designer, Graphic Designer I was working on contract with Ninja Express, and worked&hellip;",
+            "content_html": "<p><span style=\"color: #3598db;\">Client  </span> : Ninja Express<br><span style=\"color: #3598db;\">Role  </span>   : Motion Designer, Graphic Designer<br><br>I was working on contract with Ninja Express, and worked on various tasks and briefs ranging from design to motion graphics. This one is my favorite to work on, illustration provided by the client.</p>\n<div style=\"width: 600px; max-width: 100%; height: auto; margin: 20px auto 20px auto;\"><video loading=\"lazy\" width=\"100%\" height=\"auto\" autoplay=\"autoplay\" loop=\"loop\" muted=\"\" controls=\"controls\" source=\"\" src=\"https://www.dropbox.com/scl/fi/znfuxtxomge4s7vb0ol2z/Lebaran_NinjaExpress_Square.mp4?rlkey=gj5u0hqkpxsq1hggsmyljvc0n&amp;st=0af4iipd&amp;raw=1\">\n\t</video></div>\n<p> </p>",
+            "image": "https://erzajumeidi.github.io/media/posts/16/Lebaran_NinjaExpress_Square.jpg",
+            "author": {
+                "name": "Erza Jumeidi"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-04-26T13:52:07+07:00",
+            "date_modified": "2024-04-26T15:39:06+07:00"
+        },
+        {
+            "id": "https://erzajumeidi.github.io/kin-dairy-promo-2/",
+            "url": "https://erzajumeidi.github.io/kin-dairy-promo-2/",
+            "title": "Medialoka",
+            "summary": "Client : Medialoka Role : Motion Designer, Graphic Designer I was working with Medialoka as Motion Designer. This is some&hellip;",
+            "content_html": "<p><span style=\"color: #3598db;\">Client  </span> : Medialoka<br><span style=\"color: #3598db;\">Role  </span>   : Motion Designer, Graphic Designer<br><br>I was working with Medialoka as Motion Designer. This is some of my favorites that I've worked on. </p>\n<div style=\"width: 600px; max-width: 100%; height: auto; margin: 20px auto 20px auto;\"><video loading=\"lazy\" width=\"100%\" height=\"auto\" loop=\"loop\" controls=\"controls\" source=\"\" src=\"https://www.dropbox.com/scl/fi/af358yccqb9azgzax998z/OpeningUniqlo-MalBotaniSquare.mp4?rlkey=g09c7wjzglh1gnj6m3gjagumu&amp;st=bo8wik84&amp;raw=1\">\n\t</video></div>\n<div style=\"width: 600px; max-width: 100%; height: auto; margin: 20px auto 20px auto;\"><video loading=\"lazy\" width=\"100%\" height=\"auto\" controls=\"controls\" source=\"\" src=\"https://www.dropbox.com/scl/fi/e9jdrjck8uor8pcw3s3sw/Teaser_Botani_revisi.mp4?rlkey=r0puli8rs5edflepozsv5k0gg&amp;st=okh0ry5m&amp;raw=1\">\n\t</video></div>\n<div style=\"width: 600px; max-width: 100%; height: auto; margin: 20px auto 20px auto;\"><video loading=\"lazy\" width=\"100%\" height=\"auto\" controls=\"controls\" loop=\"loop\" source=\"\" src=\"https://www.dropbox.com/scl/fi/yr2dd0n2k4ymohfk1xq2k/OpeningGOKANA_MalBotaniSquare_R.mp4?rlkey=celmdw14hukd6wrk2kq4x4dp4&amp;st=n0p2ci9o&amp;raw=1\">\n\t</video></div>\n<div style=\"width: 600px; max-width: 100%; height: auto; margin: 20px auto 20px auto;\"> </div>",
+            "image": "https://erzajumeidi.github.io/media/posts/14/Teaser_Botani_revisi.jpg",
+            "author": {
+                "name": "Erza Jumeidi"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-04-26T13:41:27+07:00",
+            "date_modified": "2024-04-26T15:37:28+07:00"
+        },
+        {
+            "id": "https://erzajumeidi.github.io/kin-dairy-promo/",
+            "url": "https://erzajumeidi.github.io/kin-dairy-promo/",
+            "title": "KIN Dairy - Promo",
+            "summary": "Client : KIN Dairy ID Role : Motion Designer Working with KIN Dairy for social media posts based on a&hellip;",
+            "content_html": "<p><span style=\"color: #3598db;\">Client  </span> : KIN Dairy ID<br><span style=\"color: #3598db;\">Role  </span>   : Motion Designer</p>\n<p>Working with KIN Dairy for social media posts based on a given brief, ranging from graphic design to motion. Here are some of my favorites that I worked on.</p>\n<div style=\"width: 600px; max-width: 100%; height: auto; margin: 20px auto 20px auto;\"><video loading=\"lazy\" width=\"100%\" height=\"auto\" autoplay=\"autoplay\" loop=\"loop\" muted=\"\" controls=\"controls\" source=\"\" src=\"https://www.dropbox.com/scl/fi/clykeq611bu45sm6rhvw4/KIN_Konten-5.mp4?rlkey=rbhqgr1gmiepq1ylur39y5a9o&amp;st=uoeylta8&amp;raw=1\">\n\t</video></div>\n<div style=\"width: 600px; max-width: 100%; height: auto; margin: 20px auto 20px auto;\"><video loading=\"lazy\" width=\"100%\" height=\"auto\" autoplay=\"autoplay\" loop=\"loop\" muted=\"\" controls=\"controls\" source=\"\" src=\"https://www.dropbox.com/scl/fi/9ua0e3hcvoclkop49royv/KIN_Konten-24.mp4?rlkey=qkcfe8tuote9fbxe4d325gdob&amp;st=3wrh7ybv&amp;raw=1\">\n\t</video><br><br></div>",
+            "image": "https://erzajumeidi.github.io/media/posts/13/Copy-of-KIN_Konten-24-2.jpg",
+            "author": {
+                "name": "Erza Jumeidi"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-04-26T13:27:54+07:00",
+            "date_modified": "2024-04-26T15:26:37+07:00"
+        },
+        {
+            "id": "https://erzajumeidi.github.io/supreme-vfx-intern/",
+            "url": "https://erzajumeidi.github.io/supreme-vfx-intern/",
+            "title": "Supreme VFX - Intern",
+            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"1920\" height=\"1080\" src=\"https://www.youtube-nocookie.com/embed/MgCm1Wbdm_I\" allowfullscreen=\"allowfullscreen\" controls=\"controls\" data-mce-fragment=\"1\"></iframe></figure>",
+            "image": "https://erzajumeidi.github.io/media/posts/11/Svfx-1024.png",
+            "author": {
+                "name": "Erza Jumeidi"
+            },
+            "tags": [
+                   "Intern"
+            ],
+            "date_published": "2024-04-26T11:00:24+07:00",
+            "date_modified": "2024-04-26T13:25:21+07:00"
         }
     ]
 }
