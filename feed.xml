@@ -3,7 +3,7 @@
     <title>Erza Jumeidi</title>
     <link href="https://erzajumeidi.github.io/feed.xml" rel="self" />
     <link href="https://erzajumeidi.github.io" />
-    <updated>2024-04-26T15:47:26+07:00</updated>
+    <updated>2024-04-29T08:05:10+07:00</updated>
     <author>
         <name>Erza Jumeidi</name>
     </author>
@@ -17,7 +17,6 @@
         <link href="https://erzajumeidi.github.io/bloody-luck/"/>
         <id>https://erzajumeidi.github.io/bloody-luck/</id>
         <media:content url="https://erzajumeidi.github.io/media/posts/10/BloodyLuck_Comic_.png" medium="image" />
-            <category term="Client Works"/>
 
         <updated>2024-04-26T15:20:00+07:00</updated>
             <summary>
@@ -153,14 +152,13 @@
         </content>
     </entry>
     <entry>
-        <title>Supreme VFX - Intern</title>
+        <title>Supreme VFX </title>
         <author>
             <name>Erza Jumeidi</name>
         </author>
         <link href="https://erzajumeidi.github.io/supreme-vfx-intern/"/>
         <id>https://erzajumeidi.github.io/supreme-vfx-intern/</id>
         <media:content url="https://erzajumeidi.github.io/media/posts/11/Svfx-1024.png" medium="image" />
-            <category term="Intern"/>
 
         <updated>2024-04-26T11:00:24+07:00</updated>
             <summary></summary>

@@ -21,10 +21,9 @@
                 "name": "Erza Jumeidi"
             },
             "tags": [
-                   "Client Works"
             ],
             "date_published": "2024-04-26T15:20:00+07:00",
-            "date_modified": "2024-04-26T15:28:09+07:00"
+            "date_modified": "2024-04-29T08:05:10+07:00"
         },
         {
             "id": "https://erzajumeidi.github.io/kin-dairy-promo-5/",
@@ -84,22 +83,21 @@
             "tags": [
             ],
             "date_published": "2024-04-26T13:27:54+07:00",
-            "date_modified": "2024-04-26T15:26:37+07:00"
+            "date_modified": "2024-04-29T08:04:35+07:00"
         },
         {
             "id": "https://erzajumeidi.github.io/supreme-vfx-intern/",
             "url": "https://erzajumeidi.github.io/supreme-vfx-intern/",
-            "title": "Supreme VFX - Intern",
+            "title": "Supreme VFX ",
             "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"1920\" height=\"1080\" src=\"https://www.youtube-nocookie.com/embed/MgCm1Wbdm_I\" allowfullscreen=\"allowfullscreen\" controls=\"controls\" data-mce-fragment=\"1\"></iframe></figure>",
             "image": "https://erzajumeidi.github.io/media/posts/11/Svfx-1024.png",
             "author": {
                 "name": "Erza Jumeidi"
             },
             "tags": [
-                   "Intern"
             ],
             "date_published": "2024-04-26T11:00:24+07:00",
-            "date_modified": "2024-04-26T13:25:21+07:00"
+            "date_modified": "2024-04-29T08:04:53+07:00"
         }
     ]
 }
